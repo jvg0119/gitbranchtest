@@ -1,0 +1,2 @@
+module WelcomehomesHelper
+end
